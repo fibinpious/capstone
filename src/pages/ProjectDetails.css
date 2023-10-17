@@ -1,0 +1,17 @@
+.card {
+    margin-top: 2rem;
+    padding: 1.5rem;
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+  }
+  
+  .card-text {
+    margin-bottom: 1rem;
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+  }
+  
